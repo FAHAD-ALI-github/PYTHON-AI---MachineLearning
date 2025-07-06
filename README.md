@@ -11,7 +11,7 @@ Although I am primarily a **Web Developer**, I pursued this learning path to exp
 ### 🚀 1. Web App: ML Data Analysis Tool (Streamlit)
 
 This is a separate project hosted in another repository:  
-🔗 **[ML Data Analysis Web App (Streamlit)](https://github.com/FAHAD-ALI-github/ML-DataAnalysis-App)**
+🔗 **[ML Data Analysis Web App (Streamlit)](https://github.com/FAHAD-ALI-github/MachineLearning-WebApp-For-Data-Analysis)**
 
 It is an interactive web application built with **Streamlit** that allows users to:
 
